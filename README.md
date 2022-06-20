@@ -2,6 +2,9 @@
 
 BASIS is a free to use Resource Management Software developed by Barış Çetin
 
+This web application has a authoristaion based modular access that you can set limitations for each individuals role as
+Founder, Admin, Principal, Teacher, Student and decide which group will access which module by defining role clearence level.
+
 #Features
 
  - Log-in authentication.
