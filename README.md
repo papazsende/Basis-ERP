@@ -22,12 +22,15 @@ Login Screen
 <img src="screenshots/login.jpg" alt="Alt text" title="Optional title" style="display: inline-block;float:left; max-width: 300px">
 
 Dashboard
+
 <img src="screenshots/main.jpg" alt="Alt text" title="Optional title" style="display: inline-block;float:left; width: 400px">
 
 Student registration module 
+
 <img src="screenshots/register.jpg" alt="Alt text" title="Optional title" style="display: inline-block;float:left; width: 400px">
 
 Task module 
+
 <img src="screenshots/task.jpg" alt="Alt text" title="Optional title" style="display: inline-block;float:left; width: 300px">
 
 
