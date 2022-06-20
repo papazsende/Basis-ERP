@@ -14,7 +14,16 @@ BASIS is a free to use Resource Management Software developed by Barış Çetin
  - users can create, make payment adjustments and appointments for parents.
 
 <img src="screenshots/login.jpg" alt="Alt text" title="Optional title" style="display: inline-block;float:left; max-width: 300px">
+Login Screen 
 
+<img src="screenshots/main.jpg" alt="Alt text" title="Optional title" style="display: inline-block;float:left; max-width: 600px">
+Dashboard
+
+<img src="screenshots/register.jpg" alt="Alt text" title="Optional title" style="display: inline-block;float:left; max-width: 600px">
+Student registration module 
+
+<img src="screenshots/task.jpg" alt="Alt text" title="Optional title" style="display: inline-block;float:left; max-width: 300px">
+Task module 
 
 ////////////////////////////////////////////////////////////////////////////////////
 
