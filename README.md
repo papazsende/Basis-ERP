@@ -15,6 +15,7 @@ BASIS is a free to use Resource Management Software developed by Barış Çetin
 
 
 Login Screen 
+
 <img src="screenshots/login.jpg" alt="Alt text" title="Optional title" style="display: inline-block;float:left; max-width: 300px">
 
 Dashboard
