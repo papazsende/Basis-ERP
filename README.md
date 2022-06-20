@@ -27,8 +27,5 @@ exemplary database included "istech.sql", you can use same table structure
 
 Freelicence - feel free to develop further - adding me as author would be more than enough
 
-<<<<<<< HEAD
+
 Barış ÇETİN
-=======
-Barış ÇETİN
->>>>>>> d0441bf7767594116f5951bc108db4c1d942c59d
